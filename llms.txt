@@ -1,0 +1,2 @@
+# mismo-bridge-mcp
+# CSOAI Layer-0 legacy-bridge. Bridge MISMO mortgage / real-estate-finance data to ONE OS — parse, validate, map, govern (TRID / ECOA fair lending / GDPR).

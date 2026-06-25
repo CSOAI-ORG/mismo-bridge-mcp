@@ -1,0 +1,7 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.CSOAI-ORG/mismo-bridge-mcp",
+  "description": "Bridge MISMO mortgage / real-estate-finance data to ONE OS — parse, validate, map, govern (TRID / ECOA fair lending / GDPR).",
+  "version": "0.1.0",
+  "packages": [{"registryType": "pypi", "identifier": "mismo-bridge-mcp", "version": "0.1.0", "runtimeHint": "python", "transport": {"type": "stdio"}}]
+}
